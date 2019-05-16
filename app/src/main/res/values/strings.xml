@@ -8,4 +8,13 @@
         <item>Monthly Bills</item>
 
     </string-array>
+
+    <string-array name="Transactions">
+        <item>Zaxby\'s</item>
+        <item>Target</item>
+        <item>NameCheap</item>
+        <item>Patreon</item>
+        <item>Spotify</item>
+
+    </string-array>
 </resources>
