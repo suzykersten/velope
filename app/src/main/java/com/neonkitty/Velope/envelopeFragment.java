@@ -11,8 +11,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import java.util.ArrayList;
-
 import static android.content.Context.LAYOUT_INFLATER_SERVICE;
 
 
@@ -36,7 +34,7 @@ public class envelopeFragment extends ListFragment {
         footerView.findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                addEnveleope();
+                addEnvelope();
             }
         });
 
@@ -51,7 +49,7 @@ public class envelopeFragment extends ListFragment {
 
     }
 
-    private void addEnveleope(){
+    private void addEnvelope(){
         Toast.makeText(getContext(), "Allen add AddEnvelope Activity", Toast.LENGTH_LONG).show();
     }
 }
