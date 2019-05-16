@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Velope</string>
 
+    <string name="Balance">Balance:</string>
+
     <string-array name="Envelopes">
         <item>Fun Money</item>
         <item>Utilities</item>
