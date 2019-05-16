@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Velope</string>
+
+    <string-array name="Envelopes">
+        <item>Fun Money</item>
+        <item>Utilities</item>
+        <item>Gas</item>
+        <item>Monthly Bills</item>
+
+    </string-array>
 </resources>
